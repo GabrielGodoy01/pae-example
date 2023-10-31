@@ -42,7 +42,7 @@ class TopSection extends StatelessWidget {
                           ),
                           const SizedBox(height: 8),
                           Text(
-                            'Bora aprender Flutter com o professor Daniel Ciolfi! Cursos por apenas R\$22,90. Qualidade garantida.',
+                            'Bora aprender Flutter! Cursos por apenas R\$22,90. Qualidade garantida.',
                             style: TextStyle(
                               fontSize: 18,
                               color: Colors.white,
@@ -94,7 +94,7 @@ class TopSection extends StatelessWidget {
                           ),
                           const SizedBox(height: 8),
                           Text(
-                            'Bora aprender Flutter com o professor Daniel Ciolfi! Cursos por apenas R\$22,90. Qualidade garantida.',
+                            'Bora aprender Flutter! Cursos por apenas R\$22,90. Qualidade garantida.',
                             style: TextStyle(
                               fontSize: 15,
                               color: Colors.white,
@@ -136,7 +136,7 @@ class TopSection extends StatelessWidget {
                   ),
                   const SizedBox(height: 8),
                   Text(
-                    'Bora aprender Flutter com o professor Daniel Ciolfi! Cursos por apenas R\$22,90. Qualidade garantida.',
+                    'Bora aprender Flutter! Cursos por apenas R\$22,90. Qualidade garantida.',
                     style: TextStyle(fontSize: 15, color: Colors.white),
                   ),
                   const SizedBox(height: 16),
